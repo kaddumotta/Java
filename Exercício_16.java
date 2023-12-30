@@ -6,7 +6,7 @@
 
 import java.util.Scanner;
 
-public class Exercício_16 {
+public class Exercício_17 {
 
 	public static void main(String[] args) {
 
