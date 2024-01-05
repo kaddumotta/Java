@@ -1,4 +1,4 @@
-package applications;
+﻿package applications;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -9,7 +9,7 @@ public class Program {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 
-		System.out.println("Quantos valores terão cada vetor?");
+		System.out.println("Quantos valores terá o vetor?");
 		int n = sc.nextInt();
 		
 		double media = 0;
